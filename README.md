@@ -27,4 +27,16 @@ Agentes que compõem a Lgpd:
 E quando tiver uma fiscalização ele é a principal pessoa a
 Responder por esses dados.
 
+Eu sou o MEI que é o encarregado, controlador e operador?
+. O próprio proprietário da empresa.
+
+A que se aplica essa lei?
+. A qualquer pessoa que capturar dados seja jurídica/pessoa física.
+
+Ex: multo 2% do seu faturamento anual até 50 milhões.
+
+
+
+
+
 
