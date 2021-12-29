@@ -9,13 +9,13 @@ Desde partir de **1º de Agosto de 2021** já está aplicando sanções em empre
 *MEI: Trabalhar com dados em seu caderno (Papel) precisa se adequar a LGPD.
 
 **. Dados comuns**
-    Nome, E-mail, CPF, Endereço, Data de Nascimento, Telefone
+    Nome, E-mail, CPF, Endereço, Data de Nascimento, Telefone;
 
 **. Dados Sensiveis**    
     Pode causar constrangimento;
     
 **. Dados Anonimos**
-    Não se referencia ao Titular dos Dados
+    Não se referencia ao Titular dos Dados;
 
 Antigamente as pessoas trocava dados livremente sem um controle. E nos últimos anos os dados tem vazado e caindo em mãos de pessoas mal-intecionadas sem o consentimento do Titular dos dados.
 
@@ -25,7 +25,23 @@ Já existe situações onde empresas já estão recebendo sentenças por agir em
 
 Caso real de uma pessoa (que comprou um imovel) e percebeu que seus dados tinha vazado quando percebeu que estava recebendo ligações de telefones e-mails de empresa comerciais oferecendo serviços (Obras, Arquiteto, e, Seguro e outros Parceiros). Então ele começou a gravar as informações das ligação e entrou com um processo com base na LGPD juizado especial foi indenizado em *25.000 mil reais.*
 
-Muitos empresas que vendem online
+Muitos empresas que vendem .
+
+Sansões das multas são **2% do último faturamento anunal da empresa**, e teto **máximo é até 50.000.000 milhões.**
+
+**Multa Administrativa** e **Multa Judicial**.
+
+Encarregado de Dados:
+. Pode ser um funcionário dentro da Empresa; ou
+. Pode ser uma consultoria Terceirizada.
+
+- Quando voce aceita o termo de privacidade de empresas como 'Facebook, Google' voce autorizou eles a usar seus dados.
+
+**Dica:** O Wordpress já possue uma ferramenta de remoção de dados caso o Titular solicite a exclusão dos dados.
+
+As empresas precisa ser transparente com o titular dos dados.
+
+
 
 Vamos adaptar as necessidades de sites e lojas virtual:
 
@@ -37,6 +53,8 @@ Política de proteção de Dados:
 
 ANP - Agência nacional de Proteção de Dados
 Previsto para iniciar em 1 de Agosto de 2021.
+
+
 
 Agentes que compõem a Lgpd:
 
