@@ -1,4 +1,31 @@
-# lgpd
+# LGPD - Lei Geral de Proteção de Dados
+
+Especialistas/Advogados em **LGPD aprovada (sancionada) em agosto de 2018** derivada da **GDPR** explicam que ela serve para preparar as empresas a proteger os dados pessoais (Clientes, Funcionários, Colaborador). Em **setembro de 2020 ela foi relgulamentada**, com uma Agencia 'Nacional a ANPD que vai fiscalizar' para que empresas, organizações publicas se adeque a LGPD. 
+
+Desde partir de **1º de Agosto de 2021** já está aplicando sanções em empresas que não estão adequada a LGPD!
+
+**Exemplo:** 
+
+*MEI: Trabalhar com dados em seu caderno (Papel) precisa se adequar a LGPD.
+
+**. Dados comuns**
+    Nome, E-mail, CPF, Endereço, Data de Nascimento, Telefone
+
+**. Dados Sensiveis**    
+    Pode causar constrangimento;
+    
+**. Dados Anonimos**
+    Não se referencia ao Titular dos Dados
+
+Antigamente as pessoas trocava dados livremente sem um controle. E nos últimos anos os dados tem vazado e caindo em mãos de pessoas mal-intecionadas sem o consentimento do Titular dos dados.
+
+**Exemplo:**
+
+Já existe situações onde empresas já estão recebendo sentenças por agir em manipular dados pessoais sem autorização do titular.
+
+Caso real de uma pessoa (que comprou um imovel) e percebeu que seus dados tinha vazado quando percebeu que estava recebendo ligações de telefones e-mails de empresa comerciais oferecendo serviços (Obras, Arquiteto, e, Seguro e outros Parceiros). Então ele começou a gravar as informações das ligação e entrou com um processo com base na LGPD juizado especial foi indenizado em *25.000 mil reais.*
+
+Muitos empresas que vendem online
 
 Vamos adaptar as necessidades de sites e lojas virtual:
 
@@ -13,16 +40,16 @@ Previsto para iniciar em 1 de Agosto de 2021.
 
 Agentes que compõem a Lgpd:
 
-1. Titular
+1. **Titular**
 . Titular dos dados
 
-2. Controlar de Dados
+2. **Controlar de Dados**
 . Manipulador 
 
-3. Operador
+3. **Operador**
 . Pode ser um terceiro, 
 
-4. Encarregado
+4. **Encarregado**
 . Uma pessoa dentro da empresa responsável por informar as pessoas dos dados.
 E quando tiver uma fiscalização ele é a principal pessoa a
 Responder por esses dados.
